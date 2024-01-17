@@ -47,3 +47,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Enjoy using LangChain GPT Test App! If you have any questions or feedback, feel free to reach out.
+P.S Thanks to Nicholas Renotte for this crash course
